@@ -12,5 +12,10 @@ public class OperadorResto {
 		//18L, colocaram em garrafas de 4L.
 		// quanto sobrou?
 		int sobrou = 18 % 4;
+		
+		//verifique se um numero eh multiplo de 5
+		if (numero % 5 == 0) {
+			
+		}
 	}
 }

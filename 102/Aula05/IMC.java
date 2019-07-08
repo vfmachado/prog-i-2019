@@ -31,6 +31,7 @@ public class IMC {
 		}
 		 else if (imc <= 25) {
 			System.out.println("Vc esta no peso ideal!");
-		}
+		} 
+		//varios else ifs sao permitidos
 	}
 }
