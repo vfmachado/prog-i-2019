@@ -1,8 +1,8 @@
-package t102.aula_05_08; //pasta onde esta o arquivo
+package Trimestre_2.t102.aula_05_08; //pasta onde esta o arquivo
 
 import java.util.Scanner;
 
-import ExemploExtra.Durma;
+import Trimestre_2.ExemploExtra.Durma;
 
 public class ExemploRepeticao {
 

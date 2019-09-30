@@ -1,4 +1,4 @@
-package ExemploExtra;
+package Trimestre_2.ExemploExtra;
 
 public class Durma {
 

@@ -1,4 +1,4 @@
-package EO;
+package Trimestre_2.EO;
 
 import java.util.Scanner;
 

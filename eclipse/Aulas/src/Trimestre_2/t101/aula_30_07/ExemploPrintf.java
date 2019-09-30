@@ -1,4 +1,4 @@
-package t101.aula_30_07;
+package Trimestre_2.t101.aula_30_07;
 
 public class ExemploPrintf {
 

@@ -1,4 +1,4 @@
-package t102.aula_30_07;
+package Trimestre_2.t102.aula_30_07;
 
 import java.util.Scanner;
 

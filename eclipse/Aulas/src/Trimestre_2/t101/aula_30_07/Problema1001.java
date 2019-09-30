@@ -1,4 +1,4 @@
-package t102.aula_30_07;
+package Trimestre_2.t101.aula_30_07;
 
 import java.util.Scanner;
 
@@ -14,7 +14,6 @@ public class Problema1001 {
 		x = a + b;
 		
 		System.out.println("X = " + x);
-		
 	}
-
+	
 }
